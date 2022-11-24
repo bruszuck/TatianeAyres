@@ -1,0 +1,10 @@
+
+footer {
+  margin: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.facebook_icon, .linkedin_icon, .instagram_icon {
+  height: 100px;
+}

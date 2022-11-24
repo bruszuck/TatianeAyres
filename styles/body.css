@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 32px;
+  font-size: 22px;
+  font-family: 'Quicksand', sans-serif;
+  color: hsla(000,000,000);
+  
+}
+a:link{
+  text-decoration: none;
+  color: hsla(000,000,000);
+}
+a:visited{
+  text-decoration: none;
+  color: hsla(000,000,000);
+}
+a:hover {
+  text-decoration: underline;
+  color: hsla(000,000,000);
+}
+a:active{
+  text-decoration: none;
+  color: hsla(000,000,000);
+} 
